@@ -4,7 +4,7 @@
  a **mindset** is a set of assumptions, methods, or notions held by one or more people or groups of people
  A mindset can also be seen as arising out of a person's world view or philosophy of life.[philosophy of life](https://en.wikipedia.org/wiki/Lebensphilosophie)
 
-###image
+### image
  ![](https://teacherbooker.com/wp-content/uploads/2017/10/Blog-pic-growth-mindset.jpg)
 
 
