@@ -1,3 +1,10 @@
+page number | contant
+-1 | About me
+-1 | mind set
+-1 | image
+-1 | how to keep your mind well
+
+
 # Read Me
 ### my name is sara asqalan am 23 years old and this is my first attemp i hope it was good and here my githup link [Sara Asqalan](https://github.com/saraasqalan)
 ## Mindset
@@ -12,3 +19,5 @@
 - Try different learning tactics.
 - View challenges as opportunities.
 - Replace the word “failing” with the word learning.
+
+
