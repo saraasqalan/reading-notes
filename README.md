@@ -1,10 +1,10 @@
 reading        | link
 ------------   | -------------
-Read me        | [Read me](https://github.com/saraasqalan/reading-notes/blob/main/README.md)
-MindSet        |[MindSet](https://github.com/saraasqalan/reading-notes/blob/main/MindSet.md)
-Remote seeing  | [Remote](https://github.com/saraasqalan/reading-notes/blob/main/seeing.md)
-Master Markdown| [Markdown](https://github.com/saraasqalan/reading-notes/blob/main/Mastering%20Markdown.md)
- HTML          | [HTML](https://github.com/saraasqalan/reading-notes/blob/main/html.md)
+Read me        | [Read me](https://saraasqalan.github.io/reading-notes/)
+MindSet        |[MindSet](https://saraasqalan.github.io/reading-notes/MindSet)
+Remote seeing  | [Remote](https://saraasqalan.github.io/reading-notes/seeing)
+Master Markdown| [Markdown](https://saraasqalan.github.io/reading-notes/Mastering%20Markdown)
+ HTML          | [HTML](https://saraasqalan.github.io/reading-notes/html)
 
 # Read Me
 ### my name is sara asqalan am 23 years old and this is my first attemp i hope it was good and here my githup link [Sara Asqalan](https://github.com/saraasqalan)
