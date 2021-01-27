@@ -13,6 +13,7 @@ You could compare scripts to any of the following:
 - MANUALS
 To write a **script**, you need to firststate your goal and then list the
 tasks that need to be completed inorder to achieve it. 
+
 ## Script in steps
 - script is a series of instructions that the computercan follow in order to achieve a goal.
 - Each time the script runs, it might only use a subset of all the instructions.
