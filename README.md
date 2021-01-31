@@ -11,5 +11,6 @@ Master Markdown| [Markdown](https://saraasqalan.github.io/reading-notes/Masterin
 JS operators   |[Operators and loops](https://saraasqalan.github.io/reading-notes/JSoperators)
 lab-04         |[add operator]( https://saraasqalan.github.io/lab-assignment/ )
 Color          |[color](https://saraasqalan.github.io/reading-notes/color)
+Function       |[function](https://saraasqalan.github.io/reading-notes/function)
 # Read Me
 ### my name is sara asqalan am 23 years old i finished my university this year i was study softwear engineering in the hashemite university and this is my first attemp i hope it was good and here my githup link [Sara Asqalan](https://github.com/saraasqalan)
