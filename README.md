@@ -9,8 +9,9 @@ Master Markdown| [Markdown](https://saraasqalan.github.io/reading-notes/Masterin
  JavaScript    |[JavaScript](https://saraasqalan.github.io/reading-notes/JS)
  lab-04        |[HTML&JS](https://saraasqalan.github.io/lab-assignment/)
 JS operators   |[Operators and loops](https://saraasqalan.github.io/reading-notes/JSoperators)
-lab-04         |[add operator]( https://saraasqalan.github.io/lab-assignment/ )
+lab-05         |[add operator]( https://saraasqalan.github.io/lab-assignment/ )
 Color          |[color](https://saraasqalan.github.io/reading-notes/color)
 Function       |[function](https://saraasqalan.github.io/reading-notes/function)
+lab-06         |[css and function](https://saraasqalan.github.io/lab-assignment/)
 # Read Me
 ### my name is sara asqalan am 23 years old i finished my university this year i was study softwear engineering in the hashemite university and this is my first attemp i hope it was good and here my githup link [Sara Asqalan](https://github.com/saraasqalan)
