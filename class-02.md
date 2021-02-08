@@ -1,79 +1,31 @@
 # html text 
 **heading and paragraphs**
-HTML has six "levels" of
-headings:
+HTML has six "levels" of headings:
 <h1> is used for main headings
-<h2> is used for subheadings
-If there are further sections
-under the subheadings then the
-<h3> element is used, and so
-on.
-To create a paragraph, surround
-the words that make up the
-paragraph with an opening <p>
-tag and closing </p> tag.
+<h2> is used for subheadings if there are further sections under the subheadings then the
+<h3> element is used, and so on.
+To create a paragraph, surround the words that make up the paragraph with an opening
+  <p> tag and closing </p> tag.
 
 **bold , italic**
 - <b>
-By enclosing words in the tags
-<b> and </b> we can make
-characters appear bold.
-The <b> element also represents
-a section of text that would be
-presented in a visually different
-way (for example key words in a
-paragraph) although the use of
-the <b> element does not imply
-any additional meaning.
+By enclosing words in the tags <b> and </b> we can make characters appear bold. The <b> element also represents a section of text that would be presented in a visually different way (for example key words in a paragraph) although the use of the <b> element does not imply any additional meaning.
 
 - <i>
-By enclosing words in the tags
-<i> and </i> we can make
-characters appear italic.
-The <i> element also represents
-a section of text that would be
-said in a different way from
-surrounding content — such as
-technical terms, names of ships,
-foreign words, thoughts, or other
-terms that would usually be
-italicized.
+By enclosing words in the tags <i> and </i> we can make characters appear italic. The <i> element also represents a section of text that would be said in a different way from surrounding content — such as technical terms, names of ships, foreign words, thoughts, or other terms that would usually be italicized.
 
 **structural and semantic mark up**
-There are some text elements that are not intended to affect the
-structure of your web pages, but they do add extra information to the
-pages — they are known as semantic markup
+There are some text elements that are not intended to affect the structure of your web pages, but they do add extra information to the pages
+they are known as semantic markup
 - <strong>
-The use of the <strong>
-element indicates that its
-content has strong importance.
-For example, the words
-contained in this element might
-be said with strong emphasis.
-By default, browsers will show
-the contents of a <strong>
-element in bold.
+The use of the <strong>element indicates that its content has strong importance. For example, the words contained in this element might be said with strong emphasis. By default, browsers will show the contents of a <strong> element in bold.
+  
 - <em>
-The <em> element indicates
-emphasis that subtly changes
-the meaning of a sentence.
-By default browsers will show
-the contents of an <em> element
-in italic.
+The <em> element indicates emphasis that subtly changes the meaning of a sentence. By default browsers will show the contents of an <em> element in italic.
 
 - <blockquote>
-The <blockquote> element is
-used for longer quotes that take
-up an entire paragraph. Note
-how the <p> element is still
-used inside the <blockquote>
-element.
-Browsers tend to indent the
-contents of the <blockquote>
-element, however you should not
-use this element just to indent a
-piece of text — rather you should
-achieve this effect using CSS. 
+The <blockquote> element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element.
+Browsers tend to indent the contents of the <blockquote> element, however you should not use this element just to indent a piece of text — rather you should achieve this effect using CSS. 
 
 # css
 **what is css do**
@@ -102,19 +54,11 @@ Each individual instruction or step is known as a statement. Statements should e
 - You should write comments to explain what your code does.
 They help make your code easier to read and understand.
 This can help you and others who read your code
-- A script will have to temporarily
-store the bits of information it
-needs to do its job. It can store this
-data in variables. 
-- JavaScript distinguishes between numbers,
-strings, and true or false values known as
-Booleans. 
-- An array is a special type of variable. It doesn't
-just store one value; it stores a list of values. 
-- An expression evaluates into (results in) a single value. Broadly speaking
-there are two types of expressions. 
-- Expressions rely on things called operators; they allow programmers to
-create a single value from one or more values. 
+- A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables. 
+- JavaScript distinguishes between numbers, strings, and true or false values known as Booleans. 
+- An array is a special type of variable. It doesn't just store one value; it stores a list of values. 
+- An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions. 
+- Expressions rely on things called operators; they allow programmers to create a single value from one or more values. 
 **important to know**
 - A script is made up of a series of statements. Each statement is like a step in a recipe. 
 - Scripts contain very precise instructions. For example,
