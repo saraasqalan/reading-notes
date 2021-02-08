@@ -14,6 +14,7 @@ Color          |[color](https://saraasqalan.github.io/reading-notes/color)|
 Function       |[function](https://saraasqalan.github.io/reading-notes/function)|
 lab-06         |[css and function](https://saraasqalan.github.io/lab-assignment/)|
 code 201       | [code 201](https://saraasqalan.github.io/reading-note/)|
+class-01       |[html structure and js](https://saraasqalan.github.io/reading-note/class-01)
 class-02       | [html and js](https://saraasqalan.github.io/reading-notes/class-02)
 class -03      | [html list and js loops](https://saraasqalan.github.io/reading-notes/class-03)
 # Read Me
