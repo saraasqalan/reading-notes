@@ -2,6 +2,7 @@
 **heading and paragraphs**
 HTML has six "levels" of headings:
 <h1> is used for main headings
+<<<<<<< HEAD
 <h2> is used for subheadings If there are further sections under the subheadings then the
 <h3> element is used, and so on.
 To create a paragraph, surround the words that make up theparagraph with an opening <p> tag and closing </p> tag.
@@ -25,6 +26,31 @@ The use of the <strong> element indicates that its content has strong importance
 The <em> element indicates emphasis that subtly changes the meaning of a sentence. By default browsers will show the contents of an </em> element in italic.
 
 
+=======
+<h2> is used for subheadings if there are further sections under the subheadings then the
+<h3> element is used, and so on.
+To create a paragraph, surround the words that make up the paragraph with an opening
+  <p> tag and closing </p> tag.
+
+***bold , italic***
+
+- <b>
+By enclosing words in the tags <b> and </b> we can make characters appear bold. The <b> element also represents a section of text that would be presented in a visually different way (for example key words in a paragraph) although the use of the <b> element does not imply any additional meaning.
+
+- <i>
+By enclosing words in the tags <i> and </i> we can make characters appear italic. The <i> element also represents a section of text that would be said in a different way from surrounding content — such as technical terms, names of ships, foreign words, thoughts, or other terms that would usually be italicized.
+
+**structural and semantic mark up**
+There are some text elements that are not intended to affect the structure of your web pages, but they do add extra information to the pages
+they are known as semantic markup
+- <strong>
+The use of the <strong>element indicates that its content has strong importance. For example, the words contained in this element might be said with strong emphasis. By default, browsers will show the contents of a <strong> element in bold.
+  
+- <em>
+The <em> element indicates emphasis that subtly changes the meaning of a sentence. By default browsers will show the contents of an <em> element in italic.
+
+. 
+>>>>>>> 53ae82ff37e096b42a302d8ce6792b6a25619142
 
 # css
 **what is css do**
@@ -42,15 +68,27 @@ ther is more than one type for css you can use it internal or external  also inl
 
 - Different types of selectors allow you to target your rules at different elements.
 
+<<<<<<< HEAD
 -  Declarations are made up of two parts: the properties of the element that you want to change, and the values of those properties. For example, the font-family property sets the choice of font, and the value arial specifies Arial as the preferred typeface.
 
 - CSS rules usually appear in a separate document,
 although they may appear within an HTML page.
+=======
+-  Declarations are made up of two parts: the properties of the element that you want to change, and the values of those properties. For example, the font-family
+property sets the choice of font, and the value arial specifies Arial as the preferred typeface.
+
+- CSS rules usually appear in a separate document, although they may appear within an HTML page.
+>>>>>>> 53ae82ff37e096b42a302d8ce6792b6a25619142
 
 # java script
 - A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
 
+<<<<<<< HEAD
 - You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code
+=======
+- You should write comments to explain what your code does. They help make your code easier to read and understand.
+This can help you and others who read your code
+>>>>>>> 53ae82ff37e096b42a302d8ce6792b6a25619142
 
 - A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables. 
 
@@ -78,19 +116,35 @@ although they may appear within an HTML page.
 - Expressions rely on operators to calculate a value. 
 
 # javascript Decisions 
+
 there are often several places in a script where decisions are made that detrmine which lines of code should be run next 
 we can use 
+<<<<<<< HEAD
 - ( < , > ,<=,>= )
 - (== , != , === , !==)
 - (&& , || ,!)
 
 **SWITCH STATEMENTS**
 A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
+=======
+- ( < , > ,<=,>=)
+
+- (== , != , === , !==)
+
+- (&& , || ,!)
+
+**SWITCH STATEMENTS**
+A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches 
+that value.
+>>>>>>> 53ae82ff37e096b42a302d8ce6792b6a25619142
 
 **loobs**
 loobs check condition if it returns true a code block will run then the condition will be checkes again and if it still returns true the code block will run agin 
+
 - for
+
 - while 
+
 - do while
 
 
