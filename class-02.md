@@ -7,7 +7,8 @@ HTML has six "levels" of headings:
 To create a paragraph, surround the words that make up the paragraph with an opening
   <p> tag and closing </p> tag.
 
-**bold , italic**
+***bold , italic***
+
 - <b>
 By enclosing words in the tags <b> and </b> we can make characters appear bold. The <b> element also represents a section of text that would be presented in a visually different way (for example key words in a paragraph) although the use of the <b> element does not imply any additional meaning.
 
