@@ -20,5 +20,6 @@ class -03      | [html list and js loops](https://saraasqalan.github.io/reading-
 lab201-03      |[array and loop](https://saraasqalan.github.io/aboutme/)   
 class -04      |[html link and javascript function](https://saraasqalan.github.io/reading-notes/class-04)
 class -05      |[html image , color](https://saraasqalan.github.io/reading-notes/class-05)
+class -06      |[JS](https://saraasqalan.github.io/reading-notes/class-06)
 # Read Me
 ### my name is sara asqalan am 23 years old i finished my university this year i was study softwear engineering in the hashemite university and this is my first attemp i hope it was good and here my githup link [Sara Asqalan](https://github.com/saraasqalan)
