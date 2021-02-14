@@ -6,62 +6,62 @@ Examples of tables include financial reports, TV
 schedules, and sports results.
 
 **BASIC TABLE STRUCTURE**
-- <table> 
-The <table> element is used
+- < table>
+The < table > element is used
 to create a table. The contents
 of the table are written out row
 by row.
 
-- <tr>
+- < tr>
 You indicate the start of each
-row using the opening <tr> tag.
+row using the opening < tr> tag.
 (The tr stands for table row.)
 It is followed by one or more
-<td> elements (one for each cell
+< td> elements (one for each cell
 in that row).
 At the end of the row you use a
-closing </tr> tag.
+closing </ tr> tag.
 
-- <td>
+- < td>
 Each cell of a table is
-represented using a <td>
+represented using a < td>
 element. (The td stands for
 table data.)
 At the end of each cell you use a
-closing </td> tag.
+closing </ td> tag.
 
-- <th>
-The <th> element is used just
-like the <td> element but its
+- < th>
+The < th> element is used just
+like the < td> element but its
 purpose is to represent the
 heading for either a column or
 a row. (The th stands for table
 heading.) 
 
-- <thead>
+- < thead>
 The headings of the table should
-sit inside the <thead> element
+sit inside the < thead> element
 
-- <tbody>
+- < tbody>
 The body should sit inside the
-<tbody> element. 
+< tbody> element. 
 
-- <tfoot>
+- < tfoot>
 The footer belongs inside the
-<tfoot> element.
+< tfoot> element.
 
 ***MOST TO KNOW ABOUT TABLE***
-- The <table> element is used to add tables to a web
+- The < table> element is used to add tables to a web
 page.
 - A table is drawn out row by row. Each row is created
-with the <tr> element.
+with the < tr> element.
 - Inside each row there are a number of cells
-represented by the <td> element (or <th> if it is a
+represented by the < td> element (or < th> if it is a
 header).
 - You can make cells of a table span more than one row
 or column using the rowspan and colspan attributes.
-- For long tables you can split the table into a <thead>,
-<tbody>, and <tfoot>.
+- For long tables you can split the table into a < thead>,
+< tbody >, and < tfoot>.
 
 # JS Functions, Methods, and Objects
 ![function](https://raw.githubusercontent.com/ATL-WDI-Curriculum/js-objects-and-json/master/images/object-property-method.jpg)
