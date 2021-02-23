@@ -23,6 +23,7 @@ class-10       |[JS error handeling](https://saraasqalan.github.io/reading-notes
 class-11       |[html image ](https://saraasqalan.github.io/reading-notes/class-11)
 class-12       |[chart js ,canvas](https://saraasqalan.github.io/reading-notes/class-12)
 class-13       |[local storage](https://saraasqalan.github.io/reading-notes/class-13)
+class-14a      |[2D and 3D](https://saraasqalan.github.io/reading-notes/class-14a)
 
 
 # lab table
